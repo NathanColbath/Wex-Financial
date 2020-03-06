@@ -16,3 +16,8 @@ List three or more websites you like Mint, eMoney, RightCaptial
 List three websites you don't like, and indicate why for each one
 * https://www.moneytreeinc.com/ - The site is too childish and the colors are weird
 * https://www.advicentsolutions.com/products/naviplan - The color scheme is off and the product is not that fleshed out
+
+PAGE REQUIRMENTS
+About us
+Sales
+Home
